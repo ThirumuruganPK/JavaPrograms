@@ -1,0 +1,10 @@
+/*
+IT IS A ALGORITHM FOR FLAMES PROGRAM
+*/
+
+step 1: get the name's
+step 2: remove the same letters in both name
+step 3: calculate the length after done step 2
+step 4: add the FLAMES LETTER
+step 5: run upto count and remove the letter the count value is hold
+
